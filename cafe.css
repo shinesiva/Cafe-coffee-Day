@@ -1,0 +1,88 @@
+img{
+    width: 10%;
+    height: 90px;
+    top: 0px;
+}
+#i1{
+    width: 100%;
+    height: 400px;
+    top: 100px;
+}
+#i2{
+    width: 40px;
+    height: 50px;
+    margin-bottom: 600px;
+    margin-left: 470px;
+}
+#i3{
+    width: 40px;
+    height: 50px;
+    margin-bottom: 600px;
+    margin-left: 30px;
+}
+#i4{
+    width: 40px;
+    height: 50px;
+    margin-bottom: 600px;
+    margin-left: 30px; 
+}
+#i5{
+    width: 40px;
+    height: 50px;
+    margin-bottom: 600px;
+    margin-left: 30px;
+}
+#i6{
+    width: 40px;
+    height: 50px;
+    margin-bottom: 600px;
+    margin-left: 30px;
+}
+#i2:hover{
+    transform: rotate(20deg);
+}
+#i3:hover{
+    transform: rotate(20deg);
+}
+#i4:hover{
+    transform: rotate(20deg);
+}
+#i5:hover{
+    transform: rotate(20deg);
+}
+#i6:hover{
+    transform: rotate(20deg);
+}
+#i1:hover{
+    transform: scale(.5);
+}
+ul{
+    margin-left: 100px;
+    
+}
+#h1{
+    margin-left: 290px; 
+    margin-top: -130px;
+}
+#d1{
+    margin-left: 100px; 
+    margin-top: -550px;
+}
+#h2{
+    margin-left: 500px;
+    margin-top: -145px;
+}
+#u1{
+    margin-left: 290px; 
+}
+#u3{
+    margin-left: 500px; 
+}
+#h4{
+    margin-left: 800px;
+    margin-top: -130px;
+    
+}
+#u4{
+    margin-left: 800px; 
+}
